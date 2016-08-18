@@ -7,7 +7,7 @@
 // @match        *://webcache.googleusercontent.com/*
 // @downloadURL  https://raw.githubusercontent.com/michalpawl/StayCached/master/staycached.user.js
 // @updateURL    https://raw.githubusercontent.com/michalpawl/StayCached/master/staycached.user.js
-// @version      1.2.3
+// @version      1.2.5
 // ==/UserScript==
 
 
